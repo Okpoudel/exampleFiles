@@ -1,0 +1,10 @@
+employee_id,first_name,last_name,department_id,salary,age
+101,o,pl,IT,100000,35
+102,s,pl,Finance,90000,28
+103,R,Wa,HR,80000,27
+104,Is,P,Finance,200000,20
+105,S,S,IT,30000,38
+106,R C,Pl,HR,45000,35
+107,P,S,IT,50000,39
+108,A,Gautam,Finance,80000,45
+109,Jon,Doe,IT,90000,52
